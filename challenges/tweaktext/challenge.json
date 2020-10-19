@@ -1,0 +1,13 @@
+{
+    "name": "tweaktext",
+    "title": "Change blocks of text on a web page",
+    "summary": "Locate some blocks of text and change them",
+    "skills": { "markdown": 2 },
+    "tasks": [
+        { "id": 0, "title": "Change the name of the page" },
+        { "id": 1, "title": "Change the hero title" },
+        { "id": 2, "title": "Change the hero subtitle" },
+        { "id": 3, "title": "Change the hero action button title" },
+        { "id": 4, "title": "Change the next" }
+    ]
+}
