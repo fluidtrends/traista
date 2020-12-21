@@ -1,0 +1,17 @@
+{
+    "chunks": ["intro"],
+    "notfound": {
+        "title": "Oops",
+        "subtitle": "Are you sure you really wanna be here?"
+    },
+    "theme": {
+        "colors": {
+            "primary": "#2196F3",
+            "secondary": "#4CAF50",
+            "text": "#263238"
+        }
+    },
+    "footer": {
+         "watermark": "Built with Carmel."
+    }
+}
