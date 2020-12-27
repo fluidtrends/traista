@@ -11,7 +11,14 @@
             "text": "#263238"
         }
     },
+    "settings": {
+
+    },
+    "security": {
+        "namecheap": "$vault/default/namecheap",
+        "pinata": "$vault/default/pinata"
+    },
     "footer": {
-         "watermark": "Built with Carmel."
+        "watermark": "Built with Carmel."
     }
 }

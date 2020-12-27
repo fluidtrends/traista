@@ -12,6 +12,7 @@ class Template {
             "carmel/chunks/intro/**/*",
             "carmel/assets/en/images/logo.png", 
             "carmel/assets/en/images/logo-light.png", 
+            "data/**/*",
             "tsconfig.json"
         ]
     }
@@ -19,7 +20,8 @@ class Template {
     get files() {
         return  [
           ".carmel.json",
-          "carmel/assets/**/*" 
+          "carmel/assets/**/*",
+          "data/**/*" 
         ]
     }
 }
