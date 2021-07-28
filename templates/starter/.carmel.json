@@ -1,24 +1,37 @@
 {
-    "chunks": ["intro"],
-    "notfound": {
-        "title": "Oops",
-        "subtitle": "Are you sure you really wanna be here?"
-    },
-    "theme": {
-        "colors": {
-            "primary": "#2196F3",
-            "secondary": "#4CAF50",
-            "text": "#263238"
-        }
-    },
-    "settings": {
-
-    },
-    "security": {
-        "namecheap": "$vault/default/namecheap",
-        "pinata": "$vault/default/pinata"
-    },
-    "footer": {
-        "watermark": "Built with Carmel."
+  "chunks": [
+    "intro"
+  ],
+  "notfound": {
+    "title": "Oops",
+    "subtitle": "Are you sure you really wanna be here?"
+  },
+  "theme": {
+    "colors": {
+      "primary": "#2196F3",
+      "secondary": "#4CAF50",
+      "text": "#263238"
     }
+  },
+  "settings": {},
+  "security": {
+    "namecheap": "$vault/default/namecheap",
+    "pinata": "$vault/default/pinata"
+  },
+  "footer": {
+    "watermark": "Built with Carmel."
+  },
+  "id": "okue4i1f3",
+  "name": "fluidtrends",
+  "carmelSDKVersion": "1.11.2",
+  "template": "starter",
+  "bundle": "traista",
+  "bundleVersion": "1.1.1",
+  "stack": "jayesse",
+  "stackVersion": "1.12.7",
+  "packer": "papanache",
+  "packerVersion": "1.12.3",
+  "timestamp": "1627467753690",
+  "packerPort": 59760,
+  "started": true
 }
