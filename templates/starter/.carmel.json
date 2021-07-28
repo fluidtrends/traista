@@ -21,17 +21,14 @@
   "footer": {
     "watermark": "Built with Carmel."
   },
-  "id": "okue4i1f3",
-  "name": "fluidtrends",
-  "carmelSDKVersion": "1.11.2",
+  "id": "starti1f3",
+  "name": "starter",
+  "carmelSDKVersion": "1.12.0",
   "template": "starter",
   "bundle": "traista",
-  "bundleVersion": "1.1.1",
+  "bundleVersion": "1.3.0",
   "stack": "jayesse",
-  "stackVersion": "1.12.7",
+  "stackVersion": "1.13.0",
   "packer": "papanache",
-  "packerVersion": "1.12.3",
-  "timestamp": "1627467753690",
-  "packerPort": 59760,
-  "started": true
+  "packerVersion": "1.13.0"
 }
