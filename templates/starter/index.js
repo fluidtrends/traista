@@ -19,7 +19,7 @@ class Template {
     get files() {
         return  [
           ".carmel.json",
-          "carmel/assets/**/*" 
+          "carmel/assets/**/*"
         ]
     }
 }
